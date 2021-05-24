@@ -198,16 +198,16 @@
 		position: fixed;
 		top: 0;
 		z-index: 6666;
-		background-color: rgba(250,250,250,0.9);
+		background-color: rgba(40 100 127 / 90%);
 	}
 	#navigation button i {
-		color: #1e1e1e;
+		color: #ffffff;
 	}
 	.welcome-box {
 		padding: 150px 0px;
 	}
 	#logo {
-		color: #1e1e1e;
+		color: #ffffff;
 	}
 	.navbar-toggle {
 		padding: 0;
